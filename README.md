@@ -8,7 +8,7 @@
 </div>
 
 <!-- <video src="project_video.mp4" width="800px" height="600px" controls="controls"></video> -->
-
+paper [[arvix](https://arxiv.org/abs/2308.15030)]
 > 📚 **Welcomes to provide your valuable comments or suggestions by 'Issues' or my [contact information](#contact)**    
 > ✨ 欢迎通过”issues“或我的[联系方式](#contact)，为我提供宝贵意见   
 
