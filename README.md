@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-<h3 align="center">PC-MoE: Resource-Constrained MoE Model Serving via Dynamic Expert Orchestration</h3>
+<h3 align="center">SwapMoE: Serving Off-the-shelf MoE-based Large Language Models with Tunable Memory Budget</h3>
   <p align="center">
   </p>
 </div>
